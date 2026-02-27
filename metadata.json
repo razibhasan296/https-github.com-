@@ -1,0 +1,8 @@
+{
+  "name": "Smart AI Map",
+  "description": "A futuristic 360° world exploration interface powered by Random Access Intelligent (RAI) sensors and Smart AI Bot Body Lock technology.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
